@@ -31,9 +31,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Math Magicians <a name="about-project"></a>
+# 📖 To-do List <a name="about-project"></a>
 
-- "Math magicians" is a React Single Page App (SPA) website for all fans of mathematics. It allows users to make simple calculations using the built-in calculator, and read a random math-related quote. 
+- "To-do List" is a simple to do list react application built with modern languages and technologies, giving you the ability to add, remove, and order your added tasks. Built using: React | JavaScript.
 
 
 ## 🛠 Built With <a name="built-with"></a>
